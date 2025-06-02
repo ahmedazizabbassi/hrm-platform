@@ -1,0 +1,29 @@
+# HRM Platform Monorepo Setup Todo
+
+- [x] Extract PDF content
+- [x] Analyze PDF for additional requirements
+- [x] Initialize TurboRepo monorepo
+- [x] Restructure default apps (`web`->`frontend`, remove `docs`, add `backend`)
+- [x] Setup basic Express backend structure and dependencies
+- [x] Create backend server entry point (`index.js`)
+- [x] Create backend DB connection placeholder (`config/db.js`)
+- [x] Create backend placeholder routes: Auth
+- [x] Create backend placeholder routes: Employees
+- [x] Create backend placeholder routes: Leaves
+- [x] Create backend placeholder routes: Recruitment
+- [x] Create backend placeholder routes: Contracts
+- [x] Create backend placeholder routes: Payroll (Salaries, Benefits, Deductions)
+- [x] Scaffold basic Next.js frontend structure (pages, components)
+- [x] Create frontend placeholder pages/components for Login/Auth
+- [x] Create frontend placeholder pages/components for Dashboard
+- [x] Create frontend placeholder pages/components for Employee Management
+- [x] Create frontend placeholder pages/components for Leave Management
+- [x] Create frontend placeholder pages/components for Recruitment (Offers, Applications)
+- [x] Create frontend placeholder pages/components for Contract Management
+- [x] Create frontend placeholder pages/components for Payroll Management
+- [x] Create frontend placeholder pages/components for Settings Management
+- [x] Create backend placeholder controllers for each route
+- [x] Create backend placeholder models (Mongoose schemas)
+- [x] Create backend placeholder middleware (Auth: protect, authorize)
+- [x] Validate overall structure and placeholders
+- [ ] Package and report results to user
